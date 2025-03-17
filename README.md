@@ -31,7 +31,7 @@ The images and masks are preprocessed and split into training, validation, and t
 - Optimized with Dice Loss & Adam Optimizer
 
 **Model Architecture:**
-![MultiResUNet Architecture](path/to/multiresunet_architecture.png)
+![MultiResUNet Architecture]()
 
 ### 3️⃣ Training & Optimization
 - 100 epochs with batch size 16
