@@ -31,7 +31,7 @@ The images and masks are preprocessed and split into training, validation, and t
 - Optimized with Dice Loss & Adam Optimizer
 
 **Model Architecture:**
-![MultiResUNet Architecture]()
+![MultiResUNet Architecture](IMAGES_GIT/archietcture.png)
 
 ### 3️⃣ Training & Optimization
 - 100 epochs with batch size 16
@@ -44,15 +44,27 @@ The images and masks are preprocessed and split into training, validation, and t
 - ✅ Precision & Recall
 
 **Example segmentation results:**
-![Segmentation Results](path/to/segmentation_results.png)
+![Segmentation Results](IMAGES_GIT/segresult.png)
 
 ### Visualization
 
-**Images and Masks:**
-![Images and Masks](path/to/images_and_masks.png)
+Evaluation Graph:**
+![Training History](IMAGES_GIT/graph1.png)
 
-**Training and Evaluation Graphs:**
-![Training History](path/to/training_history.png)
+
+📜 **Citations & References**
+- MultiResUNet Paper: [https://ieeexplore.ieee.org/document/10543496]
+- Dataset Source: [https://www.kaggle.com/datasets/mariaherrerot/idrid-dataset]
+
+🤝 **Contributing**
+Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
+
+📩 **Contact**
+- 📧 Email: [ashfaqahmd2002@gmail.com]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ashfaq-ahamed-a33225214/]
+- 🌐 Website: [https://ashfaq-portfolio-ten-dun.vercel.app/]
 
 Feel free to replace the placeholder paths with the actual paths to your images, masks, and model architecture picture.
+
+
 
